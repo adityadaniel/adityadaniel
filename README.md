@@ -4,7 +4,7 @@ I’m Daniel — iOS engineer at [Tokopedia](https://github.com/tokopedia).
 
 ## Anywhere else:
 - Twitter: [@adityadaniel](https://twitter.com/adityadaniel)
-- Instagram: [@adityaniel](htttps://instagram.com/@adityaniel)
+- Instagram: [@adityaniel](https://instagram.com/@adityaniel)
 - Gardening thougts digitally at [notes.adityadaniel.com](https://notes.adityadaniel.com) 
 
 ## Projects 
